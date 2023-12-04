@@ -126,3 +126,5 @@
 *.gz lfs
 *.rar lfs
 *.tar lfs
+
+*.Yacc linguist-detectable=false
